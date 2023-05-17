@@ -26,9 +26,9 @@ def toexcel(analysed_file_dir,excel_dir):
                         "diameter": old_data["diameter"],  ##直径
                     }
                     PatientName = content["PatientName"]
-                    print('内',PatientName)
+                    # print('内',PatientName)
                     content_list.append(content)
-    print('外',PatientName)
+    # print('外',PatientName)
     df = pd.DataFrame(content_list)
     print('excellllllllllllllllllllll',excel_dir + PatientName)
     df.to_excel(excel_dir + PatientName + '.xlsx',encoding='utf8')
