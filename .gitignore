@@ -1,0 +1,9 @@
+.idea
+__pycache__
+
+# logs和model_data内文件太大，不track
+logs/*
+!logs/.gitkeep
+
+model_data/*
+!model_data/.gitkeep

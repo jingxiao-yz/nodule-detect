@@ -1,0 +1,588 @@
+2022-08-22 01:02:32: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-23 03:00:00
+2022-08-23 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-24 03:00:00
+2022-08-23 17:15:19: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-24 03:00:00
+2022-08-23 17:52:57: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-24 03:00:00
+2022-08-23 17:54:43: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-24 03:00:00
+2022-08-23 19:12:35: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-24 03:00:00
+2022-08-23 20:30:09: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-24 03:00:00
+2022-08-24 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+2022-08-24 11:36:19: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+2022-08-24 11:36:48: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+Traceback (most recent call last):
+  File "/home/predict/manage.py", line 12, in <module>
+    import predict_ksn
+  File "/home/predict/predict_ksn.py", line 52
+    else:
+    ^
+IndentationError: expected an indented block
+2022-08-24 12:23:47: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+Traceback (most recent call last):
+  File "/home/predict/manage.py", line 12, in <module>
+    import predict_ksn
+  File "/home/predict/predict_ksn.py", line 52
+    else:
+    ^
+IndentationError: expected an indented block
+2022-08-24 12:28:38: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+2022-08-24 12:54:48: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+2022-08-24 22:54:06: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+2022-08-24 22:54:06: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+2022-08-24 22:54:08: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-25 03:00:00
+2022-08-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-26 03:00:00
+/home/predict/awake_manage.sh: line 18:  6498 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-08-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-26 03:00:00
+/home/predict/awake_manage.sh: line 42:  6458 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-08-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-26 03:00:00
+/home/predict/awake_manage.sh: line 42:  6462 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-08-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-26 03:00:00
+2022-08-25 09:45:41: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-26 03:00:00
+2022-08-25 10:16:45: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-26 03:00:00
+2022-08-25 22:35:40: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-26 03:00:00
+2022-08-26 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-27 03:00:00
+/home/predict/awake_manage.sh: line 42: 178823 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-08-27 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-28 03:00:00
+/home/predict/awake_manage.sh: line 42: 282456 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-08-28 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-29 03:00:00
+/home/predict/awake_manage.sh: line 42: 288231 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-08-29 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-30 03:00:00
+/home/predict/awake_manage.sh: line 42: 1276286 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-08-30 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-31 03:00:00
+2022-08-30 17:19:46: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-08-31 03:00:00
+2022-08-31 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-01 03:00:00
+/home/predict/awake_manage.sh: line 42: 1541705 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-09-01 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 11:56:45: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+Traceback (most recent call last):
+  File "/home/predict/manage.py", line 12, in <module>
+    import predict_ksn
+  File "/home/predict/predict_ksn.py", line 11, in <module>
+    import first_yolo
+  File "/home/predict/first_yolo.py", line 218
+    Zuoyou = str(abs(right - left)-5)*0.8* (int(information["ReconstructionDiameter"]) / 5120))[0:4]
+                                                                                              ^
+SyntaxError: unmatched ')'
+2022-09-01 12:46:08: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+Traceback (most recent call last):
+  File "/home/predict/manage.py", line 12, in <module>
+    import predict_ksn
+  File "/home/predict/predict_ksn.py", line 11, in <module>
+    import first_yolo
+  File "/home/predict/first_yolo.py", line 218
+    Zuoyou = str(abs(right - left)-5)*0.8* (int(information["ReconstructionDiameter"]) / 5120))[0:4]
+                                                                                              ^
+SyntaxError: unmatched ')'
+2022-09-01 12:47:09: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 16:58:07: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 17:04:40: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 18:01:58: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 18:32:56: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 19:12:22: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 19:47:36: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 20:15:52: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+2022-09-01 22:24:59: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-02 03:00:00
+/home/predict/awake_manage.sh: line 42:  5133 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-09-02 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-03 03:00:00
+2022-09-02 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-03 03:00:00
+2022-09-02 20:15:48: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-03 03:00:00
+/home/predict/awake_manage.sh: line 42:  6774 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+/home/predict/awake_manage.sh: line 42:  8125 Terminated              nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-09-03 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-04 03:00:00
+2022-09-03 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-04 03:00:00
+/root/anaconda3/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/io/excel/_base.py", line 633, in __new__
+    engine = config.get_option(f"io.excel.{ext}.writer")
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/_config/config.py", line 233, in __call__
+    return self.__func__(*args, **kwds)
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/_config/config.py", line 105, in _get_option
+    key = _get_single_key(pat, silent)
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/_config/config.py", line 91, in _get_single_key
+    raise OptionError(f"No such keys(s): {repr(pat)}")
+pandas._config.config.OptionError: "No such keys(s): 'io.excel..writer'"
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/root/anaconda3/lib/python3.8/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/predict/manage.py", line 66, in detect_file
+    flag_num = predict_ksn.dir_predict(dcm_file_path, group_id)
+  File "/home/predict/predict_ksn.py", line 98, in dir_predict
+    json2execl.toexcel(analysed_file_dir,excel_dir)
+  File "/home/predict/tools/json2execl.py", line 31, in toexcel
+    df.to_excel(excel_dir + PatientName + '.xlsx',encoding='utf8')
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/core/generic.py", line 2026, in to_excel
+    formatter.write(
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/io/formats/excel.py", line 730, in write
+    writer = ExcelWriter(stringify_path(writer), engine=engine)
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/io/excel/_base.py", line 637, in __new__
+    raise ValueError(f"No engine for filetype: '{ext}'") from err
+ValueError: No engine for filetype: ''
+/home/predict/awake_manage.sh: line 42: 17742 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-09-04 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-05 03:00:00
+/home/predict/awake_manage.sh: line 42: 15564 Killed                  nohup /root/anaconda3/bin/python /home/predict/manage.py >> /home/predict/manage.log
+2022-09-04 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-05 03:00:00
+/root/anaconda3/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/io/excel/_base.py", line 633, in __new__
+    engine = config.get_option(f"io.excel.{ext}.writer")
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/_config/config.py", line 233, in __call__
+    return self.__func__(*args, **kwds)
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/_config/config.py", line 105, in _get_option
+    key = _get_single_key(pat, silent)
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/_config/config.py", line 91, in _get_single_key
+    raise OptionError(f"No such keys(s): {repr(pat)}")
+pandas._config.config.OptionError: "No such keys(s): 'io.excel..writer'"
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/root/anaconda3/lib/python3.8/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/predict/manage.py", line 66, in detect_file
+    flag_num = predict_ksn.dir_predict(dcm_file_path, group_id)
+  File "/home/predict/predict_ksn.py", line 98, in dir_predict
+    json2execl.toexcel(analysed_file_dir,excel_dir)
+  File "/home/predict/tools/json2execl.py", line 31, in toexcel
+    df.to_excel(excel_dir + PatientName + '.xlsx',encoding='utf8')
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/core/generic.py", line 2026, in to_excel
+    formatter.write(
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/io/formats/excel.py", line 730, in write
+    writer = ExcelWriter(stringify_path(writer), engine=engine)
+  File "/root/anaconda3/lib/python3.8/site-packages/pandas/io/excel/_base.py", line 637, in __new__
+    raise ValueError(f"No engine for filetype: '{ext}'") from err
+ValueError: No engine for filetype: ''
+2022-09-05 01:33:45: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-06 03:00:00
+2022-09-05 14:10:47: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-06 03:00:00
+Traceback (most recent call last):
+  File "/home/predict/manage.py", line 12, in <module>
+    import predict_ksn
+  File "/home/predict/predict_ksn.py", line 97
+    os.makedirs(excel_dir)
+    ^
+IndentationError: expected an indented block
+2022-09-05 14:26:22: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-06 03:00:00
+2022-09-06 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-07 03:00:00
+2022-09-06 21:20:12: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-07 03:00:00
+2022-09-06 21:24:19: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-07 03:00:00
+2022-09-07 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-08 03:00:00
+2022-09-08 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-09 03:00:00
+2022-09-09 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-10 03:00:00
+2022-09-10 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-11 03:00:00
+2022-09-11 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-12 03:00:00
+2022-09-12 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-13 03:00:00
+2022-09-12 11:59:25: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-13 03:00:00
+2022-09-12 13:13:51: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-13 03:00:00
+2022-09-13 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-14 03:00:00
+2022-09-14 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-15 03:00:00
+2022-09-15 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-16 03:00:00
+2022-09-16 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-17 03:00:00
+2022-09-17 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-18 03:00:00
+2022-09-18 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-19 03:00:00
+2022-09-19 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-20 03:00:00
+2022-09-20 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-21 03:00:00
+2022-09-21 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-22 03:00:00
+2022-09-22 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-23 03:00:00
+2022-09-23 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-24 03:00:00
+2022-09-24 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-25 03:00:00
+2022-09-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-26 03:00:00
+2022-09-26 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-27 03:00:00
+2022-09-27 03:00:01: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-28 03:00:00
+2022-09-28 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-29 03:00:00
+2022-09-29 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-09-30 03:00:00
+2022-09-30 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-01 03:00:00
+2022-10-01 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-02 03:00:00
+2022-10-02 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-03 03:00:00
+2022-10-03 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-04 03:00:00
+2022-10-04 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-05 03:00:00
+2022-10-05 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-06 03:00:00
+2022-10-06 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-07 03:00:00
+2022-10-07 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-08 03:00:00
+2022-10-08 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-09 03:00:00
+2022-10-09 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-10 03:00:00
+2022-10-10 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-11 03:00:00
+2022-10-11 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-12 03:00:00
+2022-10-12 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-13 03:00:00
+2022-10-13 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-14 03:00:00
+2022-10-14 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-15 03:00:00
+2022-10-15 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-16 03:00:00
+2022-10-16 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-17 03:00:00
+2022-10-17 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-18 03:00:00
+2022-10-18 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-19 03:00:00
+2022-10-19 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-20 03:00:00
+2022-10-20 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-21 03:00:00
+2022-10-21 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-22 03:00:00
+2022-10-22 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-23 03:00:00
+2022-10-23 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-24 03:00:00
+2022-10-24 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-25 03:00:00
+2022-10-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-26 03:00:00
+2022-10-26 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-27 03:00:00
+2022-10-27 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-28 03:00:00
+2022-10-28 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-29 03:00:00
+2022-10-28 11:47:29: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-29 03:00:00
+2022-10-28 21:27:33: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-29 03:00:00
+2022-10-28 22:39:44: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-29 03:00:00
+2022-10-28 23:13:32: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-29 03:00:00
+2022-10-28 23:33:24: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-29 03:00:00
+2022-10-29 00:01:33: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-30 03:00:00
+2022-10-30 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-10-31 03:00:00
+2022-10-31 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-01 03:00:00
+2022-11-01 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-02 03:00:00
+2022-11-02 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-03 03:00:00
+2022-11-02 10:11:07: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-03 03:00:00
+2022-11-03 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-04 03:00:00
+2022-11-04 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-05 03:00:00
+2022-11-05 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-06 03:00:00
+2022-11-06 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-07 03:00:00
+2022-11-07 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-08 03:00:00
+2022-11-08 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-09 03:00:00
+2022-11-09 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-10 03:00:00
+2022-11-10 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-11 03:00:00
+2022-11-10 15:28:36: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-11 03:00:00
+2022-11-10 15:35:14: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-11 03:00:00
+2022-11-11 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-12 03:00:00
+2022-11-12 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-13 03:00:00
+2022-11-13 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-14 03:00:00
+2022-11-14 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-15 03:00:00
+2022-11-14 15:20:56: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-15 03:00:00
+2022-11-15 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-16 03:00:00
+2022-11-16 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-17 03:00:00
+2022-11-17 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-18 03:00:00
+2022-11-18 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-19 03:00:00
+2022-11-19 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-20 03:00:00
+2022-11-20 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-21 03:00:00
+2022-11-21 03:00:01: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-22 03:00:00
+2022-11-21 14:19:26: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-22 03:00:00
+2022-11-21 14:54:36: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-22 03:00:00
+2022-11-22 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-23 03:00:00
+2022-11-23 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-24 03:00:00
+2022-11-24 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-25 03:00:00
+2022-11-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-26 03:00:00
+2022-11-26 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-27 03:00:00
+2022-11-27 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-28 03:00:00
+2022-11-28 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-29 03:00:00
+2022-11-29 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-11-30 03:00:00
+2022-11-30 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-01 03:00:00
+2022-12-01 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-02 03:00:00
+2022-12-02 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-03 03:00:00
+2022-12-03 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-04 03:00:00
+2022-12-04 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-05 03:00:00
+2022-12-05 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-06 03:00:00
+2022-12-06 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-07 03:00:00
+2022-12-06 17:27:34: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-07 03:00:00
+2022-12-07 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-08 03:00:00
+2022-12-08 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-09 03:00:00
+2022-12-09 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-10 03:00:00
+2022-12-10 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-11 03:00:00
+2022-12-11 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-12 03:00:00
+2022-12-12 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-13 03:00:00
+2022-12-13 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-14 03:00:00
+2022-12-14 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-15 03:00:00
+2022-12-15 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-16 03:00:00
+2022-12-16 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-17 03:00:00
+2022-12-17 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-18 03:00:00
+2022-12-18 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-19 03:00:00
+2022-12-19 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-20 03:00:00
+2022-12-20 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-21 03:00:00
+2022-12-21 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-22 03:00:00
+2022-12-22 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-23 03:00:00
+2022-12-23 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-24 03:00:00
+2022-12-24 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-25 03:00:00
+2022-12-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-26 03:00:00
+2022-12-26 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-27 03:00:00
+2022-12-27 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-28 03:00:00
+2022-12-28 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-29 03:00:00
+2022-12-29 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-30 03:00:00
+2022-12-30 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2022-12-31 03:00:00
+2022-12-31 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-01 03:00:00
+2023-01-01 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-02 03:00:00
+2023-01-02 03:00:01: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-03 03:00:00
+2023-01-03 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-04 03:00:00
+2023-01-04 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-05 03:00:00
+2023-01-05 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-06 03:00:00
+2023-01-06 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-07 03:00:00
+2023-01-07 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-08 03:00:00
+2023-01-08 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-09 03:00:00
+2023-01-09 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-10 03:00:00
+2023-01-10 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-11 03:00:00
+2023-01-11 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-12 03:00:00
+2023-01-12 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-13 03:00:00
+2023-01-13 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-14 03:00:00
+2023-01-14 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-15 03:00:00
+2023-01-15 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-16 03:00:00
+2023-01-16 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-17 03:00:00
+2023-01-17 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-18 03:00:00
+2023-01-18 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-19 03:00:00
+2023-01-19 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-20 03:00:00
+2023-01-20 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-21 03:00:00
+2023-01-21 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-22 03:00:00
+2023-01-22 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-23 03:00:00
+2023-01-23 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-24 03:00:00
+2023-01-24 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-25 03:00:00
+2023-01-25 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-26 03:00:00
+2023-01-26 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-27 03:00:00
+2023-01-27 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-28 03:00:00
+2023-01-28 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-29 03:00:00
+2023-01-29 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-30 03:00:00
+2023-01-30 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-01-31 03:00:00
+2023-01-31 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-01 03:00:00
+2023-02-01 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-02 03:00:00
+2023-02-02 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-03 03:00:00
+2023-02-03 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-04 03:00:00
+2023-02-04 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-05 03:00:00
+2023-02-05 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-06 03:00:00
+2023-02-06 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-07 03:00:00
+2023-02-07 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-08 03:00:00
+2023-02-08 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-09 03:00:00
+2023-02-09 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-10 03:00:00
+2023-02-10 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-11 03:00:00
+2023-02-11 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-12 03:00:00
+2023-02-12 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-13 03:00:00
+2023-02-13 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-14 03:00:00
+2023-02-14 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-15 03:00:00
+2023-02-15 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-16 03:00:00
+2023-02-16 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-17 03:00:00
+2023-02-17 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-18 03:00:00
+2023-02-18 03:00:00: 已启动/home/predict/manage.py
+/home/predict/manage.py 下次重启时间：2023-02-19 03:00:00
