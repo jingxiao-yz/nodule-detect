@@ -51,7 +51,6 @@ def detect_file():
 
     while True:
         try:
-
             group_list = os.listdir(whole_file_dir)
             for group in group_list:
                 group_id = group
