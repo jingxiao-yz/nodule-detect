@@ -79,7 +79,7 @@ logs 和 model_data 文件夹内文件太大, 暂没有上传
 检测代码（python）和网站后台代码（Java）都会操作相应的文件，这些文件全部都位于根目录下的 `/opt` 文件夹里面：
 ![opt](/readmefile/opt目录.png)
 
-主要是这两个文件夹：`/opt/analysed`、`/opt/excel`，其它是Java后台相关的目录
+python端有关的是这两个文件夹：`/opt/analysed`、`/opt/excel`，其它是Java后台相关的文件目录
 
 1. `/opt/analysed` 是python检测代码主要操作文件的地方，它里面的文件结构一般长这样：
 ![analysed](/readmefile/analysed.png)
@@ -92,3 +92,8 @@ logs 和 model_data 文件夹内文件太大, 暂没有上传
    - `source`里面放的是dicom源文件、检测过程中产生的临时文件等
    - `success.txt`就是个状态文件，和`1_xxxxxxx.txt`的作用类似，告诉Java后台这个用户检测完成了，具体其它状态可以看 `manage.py`
 2. `/opt/excel`文件夹主要是放结果excel表，对应工具脚本里面的 `tools/json2execl.py` ，表格主要给到网页端供用户下载
+
+
+## <center> 依赖库
+
+。。。
