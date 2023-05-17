@@ -4,13 +4,13 @@ logs 和 model_data 文件夹内文件太大, 暂没有上传
 
 ## 检测代码结构
 
-#### classification_utils
+#### classification_utils/
 
-#### logs
+#### logs/
 
-#### model_data
+#### model_data/
 
-#### tools
+#### tools/
 
 1. dic2img.py
    dicom格式转图片格式（.png）
@@ -25,10 +25,34 @@ logs 和 model_data 文件夹内文件太大, 暂没有上传
 6. replace_path.py
    路径替换函数
 
-#### unet_nets
+#### unet_nets/
 
-#### unet_utils
+#### unet_utils/
 
-#### yolox_nets
+#### yolox_nets/
 
-#### yolox_utils
+#### yolox_utils/
+
+#### awake_manage.sh
+
+定时重启检测算法的shell脚本
+
+#### classification.py
+
+#### first_yolo.py
+
+#### image_operate.py
+
+#### make_result.py
+
+#### manage.py
+
+#### predict_ksn.py
+
+#### recongnize_one.py
+
+#### second_yolo.py
+
+#### summary.py
+
+#### unet.py
