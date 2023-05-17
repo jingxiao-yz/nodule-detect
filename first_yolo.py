@@ -191,6 +191,7 @@ class YOLO(object):
             "2textureCategory_zuobiao":"",
             "2status_zuobiao":"",
         }
+        # 初始化
         node_information_dict["probability"]=[]
         node_information_dict["status"]=[]
         node_information_dict["textureCategory"]=[]

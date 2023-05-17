@@ -4,7 +4,7 @@ import json
 import os
 
 
-#### 下载云端上传图片到本地目录，用于分析
+#### 下载数据库的dicom到规定目录，用于检测，同时返回文件夹的数字id
 def download_image(download_path):
     res = requests.get("http://47.111.159.70:8095/api/v0.1/compresses/images")
     image_group_list = res.json()["message"]
@@ -25,6 +25,7 @@ def download_image(download_path):
                 wget.download(image["image_url"], dcm_file_dir + "/" + str(image["id"]) + "." + temp)
                 # print("\nimage_id是是是是是是是是是是是是：",image["id"])
     return group_id
+
 
 #### 请求云端接口保存结节信息
 def save_nodule_info(request_json):

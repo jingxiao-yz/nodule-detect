@@ -33,6 +33,10 @@ logs 和 model_data 文件夹内文件太大, 暂没有上传
 
 #### yolox_utils/
 
+#### `awake_manage.log`
+
+`awake_manage.sh`的后台输出日志
+
 #### `awake_manage.sh`
 
 定时重启检测算法的shell脚本
@@ -53,6 +57,10 @@ logs 和 model_data 文件夹内文件太大, 暂没有上传
 
 - 不停监察网页端是否有上传文件的操作，当网页端上传完毕，也就是当用户上传待检测文件到数据库里面，我们再把这些文件拿出来放到我们规定的文件夹里面，配和`image_operate.py`使用
 - 不停监察是否有待检测的文件，有就开是检测，配和`predict_ksn.py`使用
+
+#### `manage.log`
+
+  `manage.py`的后台台输出日志
 
 #### `predict_ksn.py`
 
@@ -83,4 +91,4 @@ logs 和 model_data 文件夹内文件太大, 暂没有上传
    - `result`文件夹里面放的是最后的检测结果，包括检测结果信息，最终展示的图片等，Java后台从这里取数据，展示到网页端
    - `source`里面放的是dicom源文件、检测过程中产生的临时文件等
    - `success.txt`就是个状态文件，和`1_xxxxxxx.txt`的作用类似，告诉Java后台这个用户检测完成了，具体其它状态可以看 `manage.py`
-2. `/opt/excel`文件夹主要是放结果excel表，对应工具脚本里面的 `tools/json2execl.py` 在网页端供用户下载
+2. `/opt/excel`文件夹主要是放结果excel表，对应工具脚本里面的 `tools/json2execl.py` ，表格主要给到网页端供用户下载

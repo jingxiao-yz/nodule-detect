@@ -11,16 +11,16 @@ from fnmatch import fnmatch, fnmatchcase
 
 import predict_ksn
 
-# 监督周期
+# 监察周期（秒）
 period = 5
 
 # 请求云端接口获取数据
-
 
 def download_file():
 
     while True:
 
+        # 调试可以将try-expect关掉，不然错误无法输出显示
         try:
             # 尝试下载dcm，并获取group_id
             group_id = image_operate.download_image(whole_file_dir)
@@ -50,7 +50,10 @@ def download_file():
 def detect_file():
 
     while True:
+
+        # 调试可以将try-expect关掉，不然错误无法输出显示
         try:
+            # 查看每个数字文件夹里面的状态文本
             group_list = os.listdir(whole_file_dir)
             for group in group_list:
                 group_id = group
@@ -64,11 +67,15 @@ def detect_file():
                     # 开始分析
                     print('detect')
                     dcm_file_path = whole_file_dir + group_id + "/source/"
+                    # 开始调用函数检测，返回状态码
                     flag_num = predict_ksn.dir_predict(dcm_file_path, group_id)
                     # 该group分析完成，状态文件名置为success或者success_empty
+
                     if flag_num == 3:
+                        # 状态码 3 表明 分析过程正常结束，有结节
                         os.rename(state2, state3)
                     elif flag_num == 4:
+                        # 状态码 4 表明 分析过程正常结束，没有结节
                         os.rename(state2, state4)
                 else:
                     continue
@@ -83,6 +90,7 @@ if __name__ == '__main__':
     localtime = time.asctime(time.localtime(time.time()))
     print(localtime, ": dection starts--------------------")
 
+    # 所有的流程文件都在这个目录里面
     whole_file_dir = r"/opt/analysed/"
     if not os.path.exists(whole_file_dir):
         os.makedirs(whole_file_dir)

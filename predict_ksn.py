@@ -26,10 +26,19 @@ firstyolo = first_yolo.YOLO()
 secondyolo = second_yolo.YOLO()
 # prename = 'YANGZHOUXIONGYIXINDENGLEI'
 
+# 病人姓名
 prename=[]
+
+
+
 def dir_predict(dir_path,group_id):
-    
+
+    # 过程文件基本都被删除，如需要，可以注释有关删除的代码
+
+    # 保存进入第二轮检测的数据
     second_round_img_list = []
+
+
     #### 第1轮良恶性判断---------------------------------------------------------------
     print ("开始一轮检测")
     pname = ''
@@ -39,19 +48,22 @@ def dir_predict(dir_path,group_id):
             id_num = file.split('.')[0]
 
             try:
-            # #### dcm转图片
+                #### dcm转图片
                 img_path, img_name, information = dic2img.dcm2img(file_path)
                 print('11111111111111111111',img_name)
                 #### 创建姓名文本文件
-                
+
                 name_txt = '1'+'_'+ str(information['PatientName'])+'.txt'
                 prename=str(information['PatientName'])
                 name_txt_path = dir_path.replace("source/",name_txt)
-                print('2222222222222222222',name_txt_path)
+                # print('2222222222222222222',name_txt_path)
                 if not os.path.exists(name_txt_path):
                     open(name_txt_path, "w+")
+
+                # 打开图片
                 image = Image.open(img_path)
                 # print(img_path)cd
+                # 开始调用第一轮yolo检测
                 r_image1 = firstyolo.detect_image(image, img_name, img_path, information)
                 print(img_path)
                 if r_image1 == 0:
@@ -65,11 +77,11 @@ def dir_predict(dir_path,group_id):
                     r_image1.save(yolo_save_path)
                     ####添加到二轮
                     second_round_img_list.append(img_path)
-            
+
             except:
                     continue
     print("结束一轮检测")
-    
+
     #### 第2轮 ----------------------------------------------------------------------
     if len(second_round_img_list)==0:
         print("一轮无检出")
@@ -92,7 +104,10 @@ def dir_predict(dir_path,group_id):
         if len(os.listdir(json_path))!=0:
             RESULT_PATH = dir_path.replace("source", "result")
             imgpath = dir_path.replace("source", "processfiles/0dicom2imgs")
+
+            # 这个函数很重要，集成了大部分生成结果的过程。磊子哥牛逼！
             make_result.make_result_main(json_path, RESULT_PATH, imgpath,prename)
+
             #### 保存json信息为excel表
             analysed_file_dir = dir_path.replace("source", "result")
             if os.path.exists(analysed_file_dir):
