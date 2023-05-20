@@ -97,6 +97,9 @@ python端有关的是这两个文件夹：`/opt/analysed`、`/opt/excel`，其�
 
 。。。
 
-## <center> 重要路径
+## <center> 路径
 
-。。。
+- `classification.py` 中的 `"classes_path"`、`"model_path"`
+- `first_yolo.py` 中的 `"classes_path"`、`"model_path"`
+- `second_yolo.py` 中的 `"classes_path"`、`"model_path"`、`"LE_classes_path"`、`"LE_model_path"`
+- `unet.py` 中的 `"model_path"`

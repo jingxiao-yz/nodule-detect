@@ -95,6 +95,7 @@ if __name__ == '__main__':
     if not os.path.exists(whole_file_dir):
         os.makedirs(whole_file_dir)
 
+    # 生产者-消费者模式
     ta = threading.Thread(None, download_file)
     tb = threading.Thread(None, detect_file)
 
